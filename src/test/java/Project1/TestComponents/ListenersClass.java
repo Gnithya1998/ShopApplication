@@ -67,6 +67,7 @@ public class ListenersClass extends BaseTest implements ITestListener {
 	@Override
 	public void onStart(ITestContext context) {
 		// TODO Auto-generated method stub
+		System.out.println("On start method has been started");
 		
 	}
 
